@@ -1,0 +1,436 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "Y4yO7ZKKt7e-tTFSFyfzKH6-3BM",
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7j8ODHo7vEIZ4hei9Q73HyaUvkI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Aza-s-uuaY8"
+      },
+      "snippet": {
+        "publishedAt": "2017-04-20T21:49:07Z",
+        "channelId": "UCLCd0n7ZveeFqAfauKI189g",
+        "title": "Donning a Harness - How to properly put on a safety harness before working at heights.",
+        "description": "Learn how to properly don a PeakWorks safety harness. Learn more at surewerx.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Aza-s-uuaY8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Aza-s-uuaY8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Aza-s-uuaY8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Aza-s-uuaY8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Aza-s-uuaY8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "SureWerx Canada",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-04-20T21:49:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "U_dewiqctFgrCO1vTpRWGkeIX0c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YgViuBzP8kw"
+      },
+      "snippet": {
+        "publishedAt": "2019-11-24T19:02:52Z",
+        "channelId": "UCi9TOz8pT607dz6NjwouOvA",
+        "title": "Rooftop Safety - Safety Harness - DIY Guardian Fall Protection",
+        "description": "Roof Safety Harness - DIY Guardian Fall Protection\nDemonstration of how to safely utilize a safety harness. This video includes securing the anchor point, properly using the lanyard and how to wear the harness. This is a great video for roofer safety training. This video was shot on a roof that was a 13/12 pitch during a quick roof repair.\n\nAmazon affiliate links\nThis post includes affiliate links for which I may make a small commission at no extra cost to you should you make a purchase.\n\nGuardian Fall Protection  Bucket of Safe-Tie with Temper Anchor, 50-Foot Vertical Lifeline Assembly.\nhttps://amzn.to/2ATT2ZA\n\nUBeesize Tripod S, Premium Phone Tripod, Flexible Tripod with Wireless Remote Shutter, Compatible with iPhone/Android Samsung, Mini Tripod Stand Holder for Camera GoPro/Mobile Cell Phone (Upgraded)\nhttps://amzn.to/3dSQKIS\n\nhttp://grandroofinginc.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YgViuBzP8kw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YgViuBzP8kw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YgViuBzP8kw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YgViuBzP8kw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YgViuBzP8kw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Grand Roofing Inc.",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-11-24T19:02:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qwHOt3GHlwDPLF9eIDUHzwUPdI0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZMOvhT91gOE"
+      },
+      "snippet": {
+        "publishedAt": "2021-04-28T23:29:15Z",
+        "channelId": "UCzFfU8843gJlExbDT2Iu8Wg",
+        "title": "Basic Fall Protection: Suspension Trauma",
+        "description": "Suspension trauma is defined as the loss of consciousness due to a victim being held upright with limited movement for a period of time, causing a lack of blood flow in the body. Learn how to avoid suspension trauma and how to properly respond to and treat someone affected by suspension trauma. \n\nVideo by the Shipyard Audio Visual Production Office, Code 1170    \n\n******\n\nFollow Norfolk Naval Shipyard on Social Media\n\nFacebook- https://www.facebook.com/NorfolkNaval...​\n\nTwitter- http://www.twitter.com/NNSYNews/​​\n\nInstagram - https://www.instagram.com/norfolknava...​\n\nIssuu- https://www.issuu.com/nnsy/​​\n\nLinkedIn - https://www.linkedin.com/company/norf...​\n\nWebsite- https://www.navsea.navy.mil/Home/Ship...​\n\nCommand Home Page - https://www.navy.mil/local/nnsy/​​\n\nYouTube- https://www.youtube.com/nnsybroadcast/​​\n\nSlideshare- https://www.slideshare.net/NNSY/​",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZMOvhT91gOE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZMOvhT91gOE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZMOvhT91gOE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZMOvhT91gOE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZMOvhT91gOE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NNSYBroadcast",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-04-28T23:29:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hAF6d93ITXWGKRyUPqhjjkhWt7k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rqOScL8Hono"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-10T19:10:23Z",
+        "channelId": "UCLptLDmsGeJUAw6-9LOVIFg",
+        "title": "Easy DIY Overhead Garage Storage Rails",
+        "description": "The space above the garage door is a great place to store seasonal decorations. For less than $70, you can build these overhead storage rails and maximize the space in your garage.\n\nMusic:\nSomething Elated by Broke For Free | https://www.brokeforfree.com/\nMusic promoted by https://www.chosic.com/free-music/all/\nCreative Commons CC BY 3.0\nhttps://creativecommons.org/licenses/by/3.0/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rqOScL8Hono/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rqOScL8Hono/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rqOScL8Hono/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rqOScL8Hono/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rqOScL8Hono/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DIY Dillon",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-10T19:10:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LD9Dr54PnNtGOKSYTYUAs4MDoII",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TEf1Tsx_3MA"
+      },
+      "snippet": {
+        "publishedAt": "2021-04-19T17:16:45Z",
+        "channelId": "UCRRHDgvsBeJGYrwyPBzVhbw",
+        "title": "FALL PROTECTION BASICS | ABCD’s, Demonstration, PFAS, Fall Restraint vs. Fall Arrest, and more!",
+        "description": "In this video, we go over the ABCD's of fall protection and other critical fall protection basics like the personal fall arrest system (PFAS), the difference in fall restraint vs. fall arrest, how to inspect fall protection, fall rescue plans, and demonstrate the use of both fall arrest and fall restraint equipment. \n\nShop our full-length training here: https://safetytraining.allysafety.com/collections\n\nCheck out our membership to 120+ toolbox talk videos here: https://safetytraining.allysafety.com/courses/struck-by-hazards-safety-training\n\n*WARNING: Any downloading of this video off YouTube is 100% traceable and is a violation of US copyright law. \n\n..................................................\n\nCheck out our safety training courses and toolbox talk videos at https://allysafety.com\n\nDon't miss out on the Ally Safety Toolbox Talk Video Membership! Click here: https://allysafety.com/products/ally-safety-toolbox-talk-videos\nFor more info on Ally Safety and resources for safety pros, check out at:\nOnline: allysafety.com\nBlog: allysafety.com/blogs/news\nInstagram: www.instagram.com/ally_safety/\nFacebook: www.facebook.com/allysafety/\nLinkedIn:  www.linkedin.com/in/rachel-walla-csp-80957163/\nPinterest: www.pinterest.com/AllySafety/\n\nCONTACT:\nFor subscribers and business inquiries, please use this email: hello@allysafety.com\n\nAlly Safety\n720 SE 160th AVE\nSTE 103 #134\nVancouver, WA 98683\n\nDISCLAIMER: If you purchase a product or service with the links that I provide I may receive a small commission. There is no additional charge to you! Thank you for supporting my channel so I can continue to provide you with free content each week!\n\nDISCLAIMER: All information provided by Ally Safety is of a general nature and is furnished only for educational/entertainment purposes. No information is to be taken as legal or health and safety advice pertaining to any specific workplace, task, or organization. You agree that use of this information is at your own risk and hold Ally Safety harmless from any all losses, liabilities, injuries, or damages resulting from any and all claims.  \n\n\nFall Protection",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TEf1Tsx_3MA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TEf1Tsx_3MA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TEf1Tsx_3MA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TEf1Tsx_3MA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TEf1Tsx_3MA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Ally Safety",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-04-19T17:16:45Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ASwUAyiR38PPn8vAYrTBuN6pNtI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "PJkCaUUhqgs"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-16T12:28:57Z",
+        "channelId": "UCnbbOxqwPK2lfkEP3FzIf2Q",
+        "title": "How to tie into the harness with Perfect Figure 8 knot every time",
+        "description": "The fastest method to tie a Figure 8 knot into the climbing harness. \n100% perfect and easy to untie.\n\nFigure 8 is the most popular knot for Rock Climbing, because it is very hard to mess up and super easy to double check.\n\nAlternatively people choose to use Bowline (one of the 5 safe variations), because they have / had trouble untying Figure 8 after hard Climbing falls.\nHowever as I've shown in this video: https://youtu.be/QAr-uHd8h8o\nIf you tie your Figure 8 properly you won't have any trouble to untie it later.\n\nIf you are a bowline user keep in mind that most of the people don't know how to double check your knot.\nAnd if you never tied a bowline before and someone asks you to double check his bowline - don't do that! Instead, tell the person \"I don't know how to check your knot please double check it your self\".\n\nP.S. If you wonder why I call this NINJA method it's because I learned this from Korean climber who looked super strong and fast like a NINJA :DDDD\n\n0:00 Intro\n0:53 Doing initial figure 8\n4:21 Harness\n7:08 Follow through method\n10:34 Don't cross load figure 8\n10:53 Bonus\n\nIf you are getting value out of my videos and wanna feel good - consider supporting me: https://hardiseasy.com\nBecause that makes a big difference and is the main reason I do this project!\nDeep Thanks!\nBen",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PJkCaUUhqgs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PJkCaUUhqgs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PJkCaUUhqgs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PJkCaUUhqgs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PJkCaUUhqgs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Hard Is Easy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-16T12:28:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "08g1NJLTHwP8l4hGACzxMkFr2Mg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GHtMkX_YD10"
+      },
+      "snippet": {
+        "publishedAt": "2011-05-26T23:27:32Z",
+        "channelId": "UC8wkV__YgDNzNVDQhpz1rbA",
+        "title": "Suspension Trauma Strap - DBI/SALA Suspension Strap",
+        "description": "Shop for it here: https://pksafety.com/dbi-sala-suspension-trauma-strap-9501403/\nVisit PK Safety at https://pksafety.com/ ​\n  \nRick Pedley, owner and president of PK Safety, shows us the DBI/SALA Suspension Trauma Straps and how important they are in the event of a fall. These straps can save your life by preventing the cut off of blood flow in your legs. \n\nConnect with us:\nFacebook - https://www.facebook.com/PKSafetySupply ​\nTwitter - https://twitter.com/PKSafetydotcom ​\nLinkedIn - https://www.linkedin.com/company/pk-safety",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GHtMkX_YD10/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GHtMkX_YD10/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GHtMkX_YD10/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GHtMkX_YD10/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "PK Safety",
+        "liveBroadcastContent": "none",
+        "publishTime": "2011-05-26T23:27:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "sHtUSySDhkx7plJPwLyTBJQvT6I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TGN2aAVwJUo"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-03T02:31:59Z",
+        "channelId": "UCZEv8WYFii4qFDiuUW1XuHA",
+        "title": "3M Fall Protection - Fall Protection ABCDs",
+        "description": "Stand Down Week - 3M Fall Protection - ABCDs of Fall Protection\n\nEach year, OSHA holds a National Safety Stand-Down to help companies raise awareness about fall hazards in #construction. Join 3M Worker Health and Safety to raise awareness in an effort to help companies stop fall fatalities and injuries. #StandDown4Safety #StopFalls #FallProtection",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TGN2aAVwJUo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TGN2aAVwJUo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TGN2aAVwJUo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TGN2aAVwJUo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "3M Worker Health and Safety",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-03T02:31:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "aqB7rg59ezEWxKatWda_CzSOXpc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CMQlokK8mek"
+      },
+      "snippet": {
+        "publishedAt": "2017-08-13T06:44:41Z",
+        "channelId": "UCpfv01nhN2wEH8Iv7AG_rsA",
+        "title": "Scaffold rescue training - Suspension trauma",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CMQlokK8mek/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CMQlokK8mek/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CMQlokK8mek/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CMQlokK8mek/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CMQlokK8mek/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "AGP",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-08-13T06:44:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1gbwGYJiQ4zzcQ93FSY4OqS4Rng",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XBVQongE3V0"
+      },
+      "snippet": {
+        "publishedAt": "2016-10-11T18:46:20Z",
+        "channelId": "UC3CPfxshoDL_OayJkOenIRA",
+        "title": "Self Retracting Devices, Swing Fall and Clearance - 3D Animation",
+        "description": "Please visit https://lms.albertabcsafety.com/courses/view_course/fall-protection for more information.\n\nUnderstanding swing fall is a key component to safely using a personal fall arrest system. This 3D animation uses simple language to demonstrate swing fall. It explains how to set up your personal fall arrest system to minimize a potential swing fall and how to calculate your clearance when using a full body harness and a self retracting device (SRD).  This video is contained within our online ABCS Fall Protection.  If you need Fall Protection certification from an accredited organization, register at our website:  albertabcsafety.com.  Our courses are leading edge.....yes, that was a cheesy pun.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XBVQongE3V0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XBVQongE3V0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XBVQongE3V0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XBVQongE3V0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XBVQongE3V0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ABCS Safety Training Inc.",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-10-11T18:46:20Z"
+      }
+    }
+  ]
+}

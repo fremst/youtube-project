@@ -1,0 +1,6 @@
+GET https://youtube.googleapis.com/youtube/v3/videos?key=AIzaSyDnOryewK4LgWFMDbKWQ0pcEdypCiPkI8M&chart=mostPopular&maxResults=50 HTTP/1.1
+
+Accept: application/json
+
+###
+GET https://youtube.googleapis.com/youtube/v3/videos?key=AIzaSyDnOryewK4LgWFMDbKWQ0pcEdypCiPkI8M&chart=mostPopular&maxResults=5&part=snippet,contentDetails&regionCode=KR
