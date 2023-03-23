@@ -13,9 +13,11 @@ export default function Main() {
   // url: `https://youtube.googleapis.com/youtube/v3/search?key=${process.env.REACT_APP_API_KEY}&part=snippet&maxResults=25&q=${keyword}`,
   // });
   // https://youtube.googleapis.com/youtube/v3/search?key=AIzaSyDnOryewK4LgWFMDbKWQ0pcEdypCiPkI8M&part=snippet&relatedToVideoId=PDGts5jFczs&type=video&maxResults=11
+  // https://youtube.googleapis.com/youtube/v3/channels?key=AIzaSyDnOryewK4LgWFMDbKWQ0pcEdypCiPkI8M&part=snippet&id=UC0oA6ttbvK-CSIKu5SFB2wg
+  // https://youtube.googleapis.com/youtube/v3/channels?key=AIzaSyDnOryewK4LgWFMDbKWQ0pcEdypCiPkI8M&id=UC0oA6ttbvK-CSIKu5SFB2wg&part=snippet&fields=items/snippet/thumbnails/default
 
   if (loading) {
-    return <>TODO: 로딩중...</>;
+    return <>TODO: Main 로딩중...</>;
   }
 
   if (error) {
@@ -27,7 +29,9 @@ export default function Main() {
   return (
     <main className="mt-5 flex flex-wrap">
       {items?.map(({ id, snippet }) => (
-        <Card key={id} id={id} snippet={snippet} />
+        <div className="w-1/5">
+          <Card key={id} id={id} snippet={snippet} />
+        </div>
       ))}
     </main>
   );

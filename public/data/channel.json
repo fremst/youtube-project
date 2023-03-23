@@ -1,0 +1,43 @@
+{
+  "kind": "youtube#channelListResponse",
+  "etag": "DFNQHhIZ38bMPZUI_vdjyqsW7jM",
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#channel",
+      "etag": "Xlkoj7xotyKKlfgCa2ceV2iOOcc",
+      "id": "UC0oA6ttbvK-CSIKu5SFB2wg",
+      "snippet": {
+        "title": "Modern Greaser ",
+        "description": "Automotive videos have become far too serious these days.  Let Modern Greaser put a comical spin on things with his less than extensive knowledge about cars.  Watch as he pretends to educate you all about amazing vehicles, but basically ends up looking like a dumb dumb.",
+        "customUrl": "@moderngreaser",
+        "publishedAt": "2011-09-04T04:08:54Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/mSswT8MtzFJI92AyAj8BTgmkuPtxk3UIpfAUVfh6CV_TfKnvvTTXJJcMAvpWTSPqetRE1P3WyVY=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/mSswT8MtzFJI92AyAj8BTgmkuPtxk3UIpfAUVfh6CV_TfKnvvTTXJJcMAvpWTSPqetRE1P3WyVY=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/mSswT8MtzFJI92AyAj8BTgmkuPtxk3UIpfAUVfh6CV_TfKnvvTTXJJcMAvpWTSPqetRE1P3WyVY=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Modern Greaser ",
+          "description": "Automotive videos have become far too serious these days.  Let Modern Greaser put a comical spin on things with his less than extensive knowledge about cars.  Watch as he pretends to educate you all about amazing vehicles, but basically ends up looking like a dumb dumb."
+        },
+        "country": "US"
+      }
+    }
+  ]
+}
